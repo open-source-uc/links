@@ -42,9 +42,11 @@ Duplicate the [LittleLink Template on Figma Community](https://www.figma.com/com
 ---
 
 ### 💖 Supporters
+
 You can support LittleLink by [buying me a beer](https://www.buymeacoffee.com/seth). You can also have your name or your company added to this section and the supporters page of the [LittleLink.io](https://littlelink.io) website.
 
 #### 🏢 Business Supporters
+
 [Add Your Company Name](https://www.buymeacoffee.com/seth/e/50574)
 
 #### ✨ Individual Supporters
