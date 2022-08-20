@@ -66,4 +66,4 @@ To help build a more privacy focused product, we recommend using [Fathom Analyti
 
 # Nombres
 - Agustín Covarrubias
-- Lucas Natero
+- Lucas Natero 2
