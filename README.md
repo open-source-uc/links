@@ -68,3 +68,4 @@ To help build a more privacy focused product, we recommend using [Fathom Analyti
 - Agustín Covarrubias
 - Lucas Natero 2
 - Fernando Smith 1
+- Martín Atria
