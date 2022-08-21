@@ -265,11 +265,63 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Highlight */
-.button.button-highlight {
+/* Highlight Red*/
+.button.button-highlight-red {
   color: #da552f;
   border-style: solid;
   border-color: #da552f;
+  border-width: 2px;
+  background-color: #ffffff00;
+}
+.button.button-highlight:hover,
+.button.button-highlight:focus {
+  filter: brightness(90%);
+}
+
+/* Highlight Blue*/
+.button.button-highlight-blue {
+  color: #0073de;
+  border-style: solid;
+  border-color: #0073de;
+  border-width: 2px;
+  background-color: #ffffff00;
+}
+.button.button-highlight:hover,
+.button.button-highlight:focus {
+  filter: brightness(90%);
+}
+
+/* Highlight Yellow*/
+.button.button-highlight-yellow {
+  color: #ffef5c;
+  border-style: solid;
+  border-color: #ffef5c;
+  border-width: 2px;
+  background-color: #ffffff00;
+}
+.button.button-highlight:hover,
+.button.button-highlight:focus {
+  filter: brightness(90%);
+}
+
+/* Highlight Green*/
+.button.button-highlight-green {
+  color: #5beb58;
+  border-style: solid;
+  border-color: #5beb58;
+  border-width: 2px;
+  background-color: #ffffff00;
+}
+.button.button-highlight:hover,
+.button.button-highlight:focus {
+  filter: brightness(90%);
+}
+
+/* Highlight Purple*/
+.button.button-highlight-purple {
+  color: #b358eb;
+  border-style: solid;
+  border-color: #b358eb;
   border-width: 2px;
   background-color: #ffffff00;
 }
