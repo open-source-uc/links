@@ -293,9 +293,9 @@ button:hover,
 
 /* Highlight Yellow*/
 .button.button-highlight-yellow {
-  color: #ffef5c;
+  color: #fecc42;
   border-style: solid;
-  border-color: #ffef5c;
+  border-color: #fecc42;
   border-width: 2px;
   background-color: #ffffff00;
 }
