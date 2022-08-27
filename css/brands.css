@@ -284,10 +284,9 @@ button:hover,
   border-style: solid;
   border-color: #0073de;
   border-width: 2px;
-  background-color: #ffffff00;
 }
-.button.button-highlight:hover,
-.button.button-highlight:focus {
+.button.button-highlight-blue:hover,
+.button.button-highlight-blue:focus {
   filter: brightness(90%);
 }
 
@@ -704,6 +703,7 @@ button:hover,
 .button.button-yt {
   color: #000000;
   background-color: #ffffff;
+  border: 2px solid #e5e5e5;
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
